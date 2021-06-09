@@ -1,13 +1,20 @@
-### Hi there, I'm Jayden 👋
+## Hello World, I'm Jayden 👋
+Aspiring Software Developer
 
 ## Languages/Tools
-
 - Java
 - Javascript
 - C#
 - C
 - PHP
 - HTML & CSS
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Basic Three.js
+
+## Working On
+- Android and IOS Messaging App
+- Personal Website
+
+## Contact
+- Email : littlejjgill@gmail.com
+- Discord : Gilly#3877

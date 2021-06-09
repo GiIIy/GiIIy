@@ -1,6 +1,6 @@
 ### Hi there, I'm Jayden 👋
 
-### Languages/Tools
+## Languages/Tools
 
 - Java
 - Javascript

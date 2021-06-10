@@ -9,7 +9,9 @@ Aspiring Software Developer
 - PHP
 - HTML & CSS
 - Python
+- Dart
 - Basic Three.js
+
 
 ## Working On
 - Android and IOS Messaging App

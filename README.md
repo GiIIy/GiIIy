@@ -5,7 +5,6 @@ Aspiring Software Developer
 - Java
 - Javascript
 - C#
-- C/C++
 - PHP
 - HTML & CSS
 - Python

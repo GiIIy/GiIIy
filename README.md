@@ -19,5 +19,5 @@ Check out my portfolio website: [Portfolio](https://chilledgems.com/)
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn Profile]([link-to-linkedin](https://www.linkedin.com/in/JaydenLGill))
+- LinkedIn: [LinkedIn Profile]([link-to-linkedin](https://www.linkedin.com/in/JaydenLGill))
 - Email: littlejjgill@gmail.com

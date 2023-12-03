@@ -1,4 +1,4 @@
-# Hi there, I'm [Jayden] 👋
+# Hi there, I'm Jayden 👋
 
 I'm a Full Stack Software Developer with expertise in the MERN stack, along with proficiency in Python, HTML, CSS, and JavaScript. I've also dabbled in other languages like Java and Dart. Recently, I completed the Angelu Yu Complete Web Development Bootcamp 2023, further expanding my skills.
 

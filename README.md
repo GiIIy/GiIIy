@@ -15,7 +15,7 @@ I'm a Full Stack Software Developer with expertise in the MERN stack, along with
 
 ## Portfolio
 
-Check out my portfolio website: [ChilledGems Portfolio](https://www.chilledgems.com)
+Check out my portfolio website: [Portfolio](https://chilledgems.com/)
 
 ## Contact
 
